@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>jQuery/AJAX Test</title>
+<style type="text/css">
+h1 { font-family: sans-serif; font-size: 2em; text-align:center; }
+.program { margin:1em; padding:1em; }
+.courses { padding:1.5em; display:block; background:#ececec; }
+.courseNumber { font-weight:bold; margin-right:.3em; }
+.courseTitle { font-variant:small-caps; }
+.specialization { font-style:italic; color:green; margin:-.1em; }
+.description { text-indent:2em; }
+ul { list-style-type:none; }
+li { margin-bottom:1em; }
+</style>
+</head>
+<body>
+<h1>Course Catalog</h1>
+<div id="searcharea">
+	<label for="search">Live Search:</label>
+	<input type="search" name="search" id="search" placeholder="search"/>
+	<p>Enter a course number or title.</p>
+	<p>Select a specialization from the dropdown menu.</p>
+	<form name="myForm">
+	<select name="concentrations" id="optionList">
+		<option value="">Select an option</option>
+		<option value="chim">Cultural Heritage Information Management</option>
+		<option value="diglib">Digital Libraries</option>
+		<option value="generalist">Generalist</option>
+		<option value="hit">Health Sciences</option>
+		<option value="infoarch">Information Architecture</option>
+		<option value="lawlib">Law Librarianship</option>
+		<option value="orginfo">Organization of Information</option>
+		<option value="slm">School Library Media</option>
+		<option value="user">User Services</option>
+		<option value="showall">Show All Classes</option>
+	</select>
+	</form>
+</div>
+<div id="update">
+</div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+<script type="text/javascript">
+		window.onload = function() {
+		$('#search').keyup(function() {
+			var searchField = $('#search').val();
+			var myExp = new RegExp(searchField, "i");
+				$.getJSON('classes.json', function(data) {
+					var output = '<div class="program">';
+					$.each(data, function(key, val) {
+						if (((val.courseNumber.search(myExp) != -1) ||
+						(val.courseTitle.search(myExp) != -1) ||
+						(val.specialization.search(myExp) != -1))) {
+						output += '<ul class="courses">';
+						output += '<li>';
+						output += '<p class="courseNumber">'+ val.courseNumber + '</p>';
+						output += '<p class="courseTitle">'+ val.courseTitle + '</p>';
+						output += '<p class="credits">'+ val.credits + '</p>';
+						output += '<p class="specialization">'+ val.specialization + '</p>';
+							/*create if for multiple specializations*/
+						output += '<p class="description">'+ val.description + '</p>';
+						output += '<p class="prereq"> Prerequisite(s): '+ val.prereq + '</p>';
+						output += '</li>';
+						output += '</ul>';
+						}
+					});
+					output += '</div>';
+					$('#update').html(output);
+		});//get JSON
+	});//search
+};//load
+</script>
+<!--<script type="text/javascript">
+	function getConcentrations(myForm){
+		var selIndex = myForm.optionList.selectedIndex
+		var selName = myForm.optionList.options[selIndex].name
+				$.getJSON('classes.json', function(data) {
+					var output = '<div class="program">';
+					$.each(data, function(key, val) {
+						if (((val.courseNumber.search(selIndex) != -1) ||
+						(val.courseTitle.search(selIndex) != -1) ||
+						(val.specialization.search(selIndex) != -1))) {
+						output += '<ul class="courses">';
+						output += '<li>';
+						output += '<p class="courseNumber">'+ val.courseNumber + '</p>';
+						output += '<p class="courseTitle">'+ val.courseTitle + '</p>';
+						output += '<p class="credits">'+ val.credits + '</p>';
+						output += '<p class="specialization">'+ val.specialization + '</p>';
+							/*create if for multiple specializations*/
+						output += '<p class="description">'+ val.description + '</p>';
+						output += '<p class="prereq"> Prerequisite(s): '+ val.prereq + '</p>';
+						output += '</li>';
+						output += '</ul>';
+						}
+					});
+					output += '</div>';
+					$('#update').html(output);
+	});
+};
+</script>-->
+<script type="text/javascript">
+$('document').ready(function() {
+	$('#myForm').change(function() {
+		alert( $('#myForm option:selected').val() );
+	});
+});
+</script>
+</body>
+</html>

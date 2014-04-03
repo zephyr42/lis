@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Program Overview</title>
+<link rel="stylesheet" href="theme.css">
+</head>
+<body>
+<div id="container">
+	<div id="header">
+		<h1>Program Overview</h1>
+	</div>
+	<div id="nav">
+		<ul>
+			<li><a href="main.html">Main</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="admissions.html">Admissions</a></li>
+			<li><a href="program.html" class="current">Program Overview</a></li>
+				<ul>
+					<li>Concentrations</li>
+					<li>Course Catalog</li>
+					<li>Course Descriptions</li>
+				</ul>
+			<li><a href="current.html">Current Students</a></li>
+			<li><a href="faculty.html">Faculty</a></li>
+			<li><a href="contact.html">Contact Us</a></li>
+		</ul>
+	</div>
+	<div id="sidebar">
+	<img src="http://lis.cua.edu/res/images/maristwatercolor.jpg" alt="watercolor of Marist Hall" />
+	</div>
+	<div id="content">
+		<h2>Concentrations</h2>
+		<div id="concentrations">
+			<ul>
+				<li><a href="chim.html">Cultural Heritage</a></li>
+				<li><a href="diglib.html">Digital Libraries</a></li>
+				<li><a href="generalist.html">Generalist</a></li>
+				<li><a href="hit.html">Health Sciences</a></li>
+				<li><a href="infoarch.html">Information Architecture</a></li>
+				<li><a href="lawlib.html">Law Librarianship</a></li>
+				<li><a href="slm.html">School Library Media</a></li>
+				<li><a href="orginfo.html">Organization of Information</a></li>
+				<li><a href="user.html">User Services</a></li>
+			</ul>
+		</div>
+		<div id="description">
+		</div>
+	</div>
+</div>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(e) {
+
+var $focuses = $('#concentrations');
+
+$('#concentrations').find('a').on('click', function(e){
+	e.preventDefault();
+	
+	var $desc = $('#description');
+	
+	switch($(this).attr('href')) {
+		case 'chim.html' :
+			$desc.load('concentrations/chim.html');
+			break;
+		case 'diglib.html' :
+			$desc.load('concentrations/diglib.html');
+			break;
+		case 'generalist.html' :
+			$desc.load('concentrations/generalist.html');
+			break;
+		case 'hit.html' :
+			$desc.load('concentrations/hit.html');
+			break;
+		case 'infoarch.html' :
+			$desc.load('concentrations/infoarch.html');
+			break;
+		case 'lawlib.html' :
+			$desc.load('concentrations/lawlib.html');
+			break;
+		case 'slm.html' :
+			$desc.load('concentrations/slm.html');
+			break;
+		case 'orginfo.html' :
+			$desc.load('concentrations/orginfo.html');
+			break;
+		case 'user.html' :
+			$desc.load('concentrations/user.html');
+			break;
+	}
+});
+
+
+});
+</script>
+</body>
+</html>

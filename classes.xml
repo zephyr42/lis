@@ -1,0 +1,10 @@
+<program>
+	<course>
+		<coursenumber>LSC522</coursenumber>
+		<name>Digital Content Creation and Management</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>The course covers how individuals and organizations create, communicate, use, and manage digital information content for learning, work, and play. Examples of individual and organizational practices will be drawn from various subject domains (politics, economics, art, history, science, etc.) and from for-profit and non-profit sectors. Students will learn the roles of information technology in digital content creation and management and develop strategies to use information technology effectively and responsibly to benefit individuals, organizations, and society. The roles of social media will be examined in depth. Web applications and mobile technology will be studied for their impact on content creation and management behavior. By examining the interaction between people, information, and technology, the course prepares students to be effective learners, good citizens, and efficient workers in the 21st century. It also introduces them to career opportunities for information professionals in the 21st century.</description>
+		<prereq>None</prereq>
+	</course>
+</program>

@@ -1,0 +1,625 @@
+<program>
+	<course>
+		<coursenumber>LSC522</coursenumber>
+		<name>Digital Content Creation and Management</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>The course covers how individuals and organizations create, communicate, use, and manage digital information content for learning, work, and play. Examples of individual and organizational practices will be drawn from various subject domains (politics, economics, art, history, science, etc.) and from for-profit and non-profit sectors. Students will learn the roles of information technology in digital content creation and management and develop strategies to use information technology effectively and responsibly to benefit individuals, organizations, and society. The roles of social media will be examined in depth. Web applications and mobile technology will be studied for their impact on content creation and management behavior. By examining the interaction between people, information, and technology, the course prepares students to be effective learners, good citizens, and efficient workers in the 21st century. It also introduces them to career opportunities for information professionals in the 21st century.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC524</coursenumber>
+		<name>Actionable Intelligence</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Thoughtful analysis of data and information is critical for decision making in many areas of society, including national security, science and technology, medicine, law enforcement, legislation, policy development, business, journalism, academic research, and others. This course provides students with the knowledge and skills to research diverse information sources, assess quality and authenticity of information, and apply intelligence analysis techniques to deliver actionable intelligence for targeted user communities. The course is structured around intelligence community models and practice and emphasizes data and information from a broad range of both traditional resources and evolving digital resources. The course objectives are to develop research skills, analysis abilities, and communication abilities so that students can synthesize data and information and deliver high quality, actionable intelligence to decision makers. Topics covered include: the intelligence cycle (Planning/Direction, Collection, Processing, Analysis and Production, Dissemination), the “all-source collection” concept, evaluating and maintaining information quality, synthesis and analysis of data and information, decision processes, techniques and methods for intelligence analysis, and skills for effective delivery and presentation of research results, including development of briefings. Readings and examples used in course and for assignments are from a variety of contexts, ranging from national security and law enforcement to medicine and business.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC528</coursenumber>
+		<name>User Interface Design and Evaluation</name>
+		<credits>3 Credits</credits>
+		<specialization>Information Architecture</specialization>
+		<description>This course explains how to use design and evaluation techniques to develop successful user interfaces for information systems and other interactive technologies. Students will develop an understanding of the cognitive principles and social issues that affect human-computer interaction. Topics covered include: understanding users and interaction, design strategies, iterative prototyping, formative and summative evaluation, and usability testing. Through a team project, students will apply and refine their knowledge, prototyping and evaluating the design of a user interface for a real-world system. Prerequisite: 555 or instructor's permission.</description>	
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC551</coursenumber>
+		<name>Organization of Information</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This course introduces students to the basic principles of organizing and representing information for facilitating access based on users' information needs. The course will address how recorded knowledge can be organized and structured, and ways of providing access to the intellectual works. Topics include defining information; describing and indexing intellectual works; current approaches, standards, tools, and systems in use for information organization; and relationship of information organization to information access</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC553</coursenumber>
+		<name>Information Sources and Services</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>A solid introduction to the fundamental terminology, concepts, and practices of library public services as well as the skills to deliver them effectively to a variety of information users and within a variety of settings. Special emphasis on the philosophy of reference service, appropriate communications skills for use in instructional settings and reference interviews, standard evaluative criteria for determining fitness of sources to meet information needs, proficient retrieval of information from print and electronic reference sources, policies and procedures for the provision of reference service, and the role of reference and information service departments within an organization.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC555</coursenumber>
+		<name>Information Systems in Libraries and Information Centers</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduces students to the evolving role of information systems in the storage and retrieval of information. Students explore how information technology in libraries, archives and information centers, and on the World Wide Web facilitates interaction with information. This course is designed to: Introduce students to applicable theory, principles, and standards; explore the capabilities and functions of several coursees of information systems, including established technology like integrated library systems (ILS) and databases as well as evolving social and collaborative environments; introduce essential technology elements (hardware, software, networking, etc.); introduce practical information technology skills used by information professionals, such as working with databases and creating and publishing web pages; and promote critical thinking, problem solving and collaborative teamwork abilities for working with information technology.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC557</coursenumber>
+		<name>Libraries and Information in Society</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to the nature of information, the role of libraries, and the profession of librarianship in contemporary society. Incorporates historical developments, current trends, and the outlook for the future. Emphasizes the values, principles, legal, and ethical responsibilities of the profession and builds a foundation for each student's ongoing professional development and leadership.</description>	
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC603</coursenumber>
+		<name>Technical Services</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>A solid introduction to the fundamental terminology, concepts, and practices of library technical services as well as the skills to deliver them effectively regardless of format and within a variety of settings including digital libraries. Special emphasis on the operations and techniques associated with the major areas of Technical Services (acquisition, organization for access, physical processing, and maintenance of library materials); historical context, current issues and future trends; tools, policies, procedures and processes for its provision; and the role of technical service departments within an organization.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC606</coursenumber>
+		<name>Cataloging and courseification</name>
+		<credits>3 Credits</credits>
+		<specialization>Generalist</specialization>
+		<specialization>Organization of Information</specialization>
+		<specialization>School Library Media</specialization>
+		<specialization>User Services</specialization>
+		<description>This course introduces students to the terminology, concepts and practices of cataloging and courseification to facilitate information access. Special emphasis on the common standards used in cataloging (AACR, Dewey, MARC, LCSH, etc); cataloging various formats of information objects; historical context, current issues and future trends; overview of existing Integrated Library Systems; and the implications of organization and indexing practice upon information access. </description>
+		<prereq>LSC551</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC610</coursenumber>
+		<name>Information Architecture and Web Design</name>
+		<credits>3 Credits</credits>
+		<specialization>Digital Libraries</specialization>
+		<specialization>Generalist</specialization>
+		<specialization>Information Architecture</specialization>
+		<specialization>Organization of Information</specialization>
+		<description>This course is designed for students interested in becoming skilled searchers of Internet resources and creative designers of Web sites. It will cover Internet search tools, search engine architecture, search techniques and strategies, evaluation of information resources and applications of information architecture to web site design. Through exercises, discussions, lectures, projects and presentations students will learn the strengths and limitations of search tools and the principles of user-centered Web design. In addition, students will have hands-on practice with web site creation with HTML and Dynamic HTML. They will use HTML editors such as Netscape Composer and Dreamweaver and graphic tools such as GIF Construction Kit and Fireworks to create sites with interactivity. They will also learn the basics of placing databases on the Web.</description>
+		<prereq>LSC555</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC615</coursenumber>
+		<name>Metadata</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<specialization>Digital Libraries</specialization>
+		<specialization>Information Architecture</specialization>
+		<specialization>Organization of Information</specialization>
+		<description>Applies principles of information organization to organize digitized and born-digital resources for access. Discusses strengths and limitations of current access tools such as subject guides and directories, search engines, OPACs, databases, and digital libraries. Compares selected metadata standards and examines how libraries, archives, government agencies, and museums apply metadata schemas and manage projects to make digital resources available to users. </description>	
+		<prereq>LSC551</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC616</coursenumber>
+		<name>Indexing, Abstracting, and Thesaurus Construction</name>
+		<credits>3 Credits</credits>
+		<specialization>Information Architecture</specialization>
+		<specialization>Organization of Information</specialization>
+		<description>A solid introduction to the terminology, principles, practices, and applications of controlled vocabulary, especially thesauri, as well as their provision in meeting the needs of a variety of information users within a variety of settings. Special emphasis on the historical context, current issues and future trends; current standard models; tools and processes for their use; and their role in organizing, accessing, and managing information within an organization. Projects in the implications of indexing practice upon information access.</description>
+		<prereq>LSC551</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC631</coursenumber>
+		<name>Storytelling</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Exploration of several forms and genres of narrative or "story," such as tale, myth, and legend as media for creating, collecting, preserving, and providing access to cultural heritage information. Examines culturally diverse content within a variety of media, including books, graphic novels, comics, oral histories, still and moving images, performance representations, manuscripts, and juvenile literature. Addresses how information managers use stories in collection development, organization of knowledge in multi-format materials, library administration, public programming, and qualitative research, as well as identifying the role of personal story in professional development and discusses the ethical issues of storytelling. Includes in-course performance and out-of-course project work. Students demonstrate how stories are used in various information service environments including: libraries, archives, museums, school media centers, and other community organizations and cultural institutions.</description>	
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC633</coursenumber>
+		<name>Storytelling</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Provides a solid grounding in the theory and practice of information storage and retrieval in the online environment. Special emphasis on the history of the online information industry, awareness of issues and trends in the provision of online services, types and structures of online databases, and basic search skills including the selection of an appropriate electronic source and construction of effective search strategy. Illustrates search techniques using the internet and commercial databases, such as Dialog, Lexis, and Factiva. Explores electronic reference services and discusses the management of online search services.</description>
+		<prereq>LSC553</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC634</coursenumber>
+		<name>Humanities Information</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to humanities-based information and effective delivery of humanities information to a variety of information users and within a variety of settings. Disciplines include philosophy, religion, the visual arts (art and architecture), the performing arts (music, drama, cinema, and theater), and languages and literature. Special emphasis on access to resources in technologically evolving information environments. Explores trends and issues in the development of humanities sources and in humanities information services. Prerequisite: 553 or 9 graduate credits in a humanities related discipline.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC635</coursenumber>
+		<name>Use and Users of Libraries and Information</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<specialization>Generalist</specialization>
+		<specialization>Organization of Information</specialization>
+		<specialization>User Services</specialization>
+		<description>This course will introduce students with information-seeking theories, methods, and research on users' behavior of libraries and information use. The main focus of this course is on promoting an understanding of how different groups of people and communities seek, gather, retrieve, and use information in a variety of information environments. Topics of the course include frameworks for understanding behavior, seeking and retrieval of information, conceptual models of seeking and search process, relationships between information seeking and information retrieval and organization, research approaches and methods, and a review of the basic process in the management of information services.</description>	
+		<prereq>LSC553</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC636</coursenumber>
+		<name>Social Science Information</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Survey of information resources for the social sciences. Disciplines include anthropology, economics, education, ethnic and gender studies, geography, history, law, political science, and sociology. Emphasizes research techniques utilizing resources in all formats. Covers trends and problems in the social sciences and in social science information services. </description>
+		<prereq>553 or 9 credits of graduate credit in a social science discipline.</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC637</coursenumber>
+		<name>Government Information</name>
+		<credits>3 Credits</credits>
+		<specialization>Law Librarianship</specialization>
+		<description>Explores the selection, dissemination, and use of government information services in libraries. Examines government publishing practices and the development of specialized finding tools for successful information access. Focuses on congressional information, federal agency statistics, and data manipulation tools. Coverage includes government information from commercial indexing resources as well as government agency electronic sources freely available over the Internet.</description>
+		<prereq>LSC553</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC638</coursenumber>
+		<name>Science and Technology Information</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+			<description>Survey of information resources for the natural and physical sciences, medicine, computer science, and engineering. Emphasizes research techniques utilizing resources in all formats. Covers the scientific research and publication process, trends and problems in science and technology and in science and technology information services. Prerequisite: 553 or 9 credits of graduate credit in a science or technology discipline.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC639</coursenumber>
+		<name>Business Information</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to information sources used in business, finance, and economics, with special emphasis given to company and industry information and to the use and interpretation of statistical sources. Also examines labor, taxation, trade, and international sources. Printed data sources examined and contrasted with their database equivalents. Prior knowledge of on-line database systems helpful but not required.</description>
+		
+		<prereq>553 or nine credits of graduate credit in business.</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC641</coursenumber>
+		<name>Collection Development</name>
+		<credits>3 Credits</credits>
+		<specialization>Generalist</specialization>
+		<description>Principles and practices in selecting, evaluating, and managing collections in all types of libraries and information formats. Survey of all aspects of collection building including: institutional goals, user characteristics and needs, the publishing industry, special characteristics of materials in particular subject fields, formats, and genres. Consideration of such topics as collection development tools, collection development policies, resource sharing, and digital collections. </description>
+		
+		<prereq>553 or 557</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC643</coursenumber>
+		<name>Oral History</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to oral history as a primary source for historical research and documentary writing. Interviewing techniques, oral history program planning, and the topics of standards and principles involved in the creation, collection, evaluation, and organization of oral history projects and programs are included. Course training extends to practical aspects of interviewing and maintaining collections, physically and virtually. Focuses on the "doing" of oral history as demonstrated in critical readings, site visits, and individual and collective project development.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC644</coursenumber>
+		<name>Information Literacy and Instructional Design</name>
+		<credits>3 Credits</credits>
+		<specialization>User Services</specialization>
+		<description>This course combines theory and practice to give students the foundation they need to design, manage and teach information literacy programs that will give citizens lifelong learning skills to find, evaluate and use information effectively to solve problems and make decisions. The course provides the theoretical and practical aspects of creating instructional material (including web tutorials), as well as designing electronic courserooms that incorporate assistive technologies, delivering "virtual" instruction via the web and in-person to diverse audiences (e.g. multiethnic, multicultural, multilingual), and managing an instruction program within a larger organizational setting.</description>
+		
+		<prereq>LSC553</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC646</coursenumber>
+		<name>Archives Management</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Intensive introduction to the field of archives through a survey of principles, practices, and current debates in the field of archives administration, including: accessioning, arrangement, description, preservation, and reference services. Special emphasis on new technological applications. Focuses in part on the differences between archives, libraries, special collections, and other cultural heritage repositories. Explains the interaction of various components of archives and records administration. Includes critical readings, independent research and analytical writing, as well as physical and virtual site visits to archives facilities.</description>
+		
+		<prereq>551 or 557</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC647</coursenumber>
+		<name>Preservation</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to the preservation of paper collections and related media in library and archival collections including bound volumes, documents, scrapbooks, photographic prints and negatives, newspapers, maps, works on art on paper, moving images, audio recordings, and digital media. Defines preservation management and identifies the components of preservation programs. Explores the historical and contemporary contexts of preservation activities, including the impact of new technologies. Provides a basic overview of preservation management strategies, including methods of assessment, selection and collection, program planning, disaster preparedness, and preventive maintenance. Utilizes state-of-the-art information resources, readings, physical and virtual exercises, and site visits.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC648</coursenumber>
+		<name>Digital Curation</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<description>This course provides an overview of digital curation as a lifecycle management strategy to manage, evaluate, collect, organize, preserve, share, support and promote the use and re-use of digital assets. The course introduces digital curation models, infrastructures, standards, initiatives, and technical tools; and covers the concepts and skills involved in creating and managing an integrated and sustainable digital cultural heritage repository as a trusted body of digital information for current and future use.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC652</coursenumber>
+		<name>Foundations of Digital Libraries</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<specialization>Digital Libraries</specialization>
+		<specialization>Generalist</specialization>
+		<specialization>Organization of Information</specialization>
+		<description>The digital library is a blend of old and new, bringing new formats, technologies and techniques to the global dissemination of information, drawn on knowledge and experience in areas such as organization of information, digital preservation, information retrieval, interface design, and networking. This course will provide an overview of principles and practices in digital libraries. The course will address theoretical, technological, social, and practical issues regarding building, organizing, and providing access to digital libraries. Topics covered in the course include all phases of project management including collection development and assessment, formatting standards and practices, metadata and markup standards, technical infrastructure, and end-user experience.</description>
+		
+		<prereq>555</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC654</coursenumber>
+		<name>Database Management</name>
+		<credits>3 Credits</credits>
+		<specialization>Digital Libraries</specialization>
+		<specialization>Generalist</specialization>
+		<specialization>Health Sciences</specialization>
+		<specialization>Information Architecture</specialization>
+		<specialization>Organization of Information</specialization>
+		<description>Solid introduction to the terminology, concepts and practice of information storage and retrieval systems design. Special emphasis on user needs assessments, data integrity, data models and record structure, and data manipulation. Other topics include: current awareness of relational database model, query languages, data normalization techniques, client-server systems, database warehousing and data mining. Practice in developing a small database application. </description>
+		
+		<prereq>551, 555</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC670</coursenumber>
+		<name>History of the Book</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Historical overview of the impact of print through studies of authorship, distribution, and use of manuscript, print, and electronic books. A broad survey of the large and growing field of book arts history, focusing on key areas and periods from which the book emerged. Addresses both physical aspects and social and cultural context of the production and circulation of books and the impact of technological change. Explores the history of the book and book arts as related to the history of libraries in our culture, and the future of the book. Includes practical experiences.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC672</coursenumber>
+		<name>Management</name>
+		<credits>3 Credits</credits>
+		<specialization>Generalist</specialization>
+		<specialization>Health Sciences</specialization>
+		<specialization>User Services</specialization>
+		<description>Introduction to the management process and functions as applied to all types of libraries, archives, media, and information centers. Emphasizes the development of competencies in utilizing human, financial, and other resources, and working with and through others to achieve effective and efficient organizational performance.</description>
+		
+		<prereq>LSC557</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC675</coursenumber>
+		<name>Research Methods in Library and Information Science</name>
+		<credits>3 Credits</credits>
+		<specialization>Generalist</specialization>
+		<specialization>Health Sciences</specialization>
+		<specialization>Information Architecture</specialization>
+		<description>Covers the analysis and evaluation of research studies in library and information science and the application of analytical and evaluative techniques. Surveys research processes, including problem definition, design, sampling, measurement, data collection and analysis, and the applications of research findings to solving practical problems of libraries and information centers. Includes research design and proposal writing. No previous statistical or research background required.</description>
+		
+		<prereq>LSC551</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC677</coursenumber>
+		<name>History and Theory of Cultural Heritage Institutions</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<description>This course provides the 21st-century LIS-CHIM student with an overview of the history and theory of institutions whose mission is to collect, preserve, organize, interpret, and disseminate information about the cultural heritage, tangible and intangible, and by direct or virtual means. Students will gain a grasp of the purpose and mission of these institutions, from the “cabinet of curiosities” to the virtual collections that cross boundaries among libraries, museums, and archives, as well as cultural organizations that protect and interpret buildings and sites of cultural and historical significance or are dedicated to grass-roots efforts to promote the protection of heritage. The course will cover ethics, collection and curatorial practices, and the visitor/user experience, as well as the meaning of cultural heritage in the global environment.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC713</coursenumber>
+		<name>Advanced Cataloging and courseification</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Focuses on subject analysis using Library of Congress Subject Headings and Library of Congress courseification. Prepares students to use AACR2R to catalog electronic resources, Internet resources, print and electronic serials, videos, and sound recordings. Discusses selected metadata standards and metadata applications. Provides hands-on practice in metadata record creation using OCLC Connexion and other metadata tools.</description>
+		
+		<prereq>LSC606</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC731</coursenumber>
+		<name>Media Integration in the Curriculum</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Exploration on non-print and electronic media in school library media centers. Selection, acquisition, use, and assessment of library resources and equipment to meet PK-12 curriculum standards and instructional needs. Emphasis on building capabilities to develop technology plans and to design and implement lesson plans with technology and media services integrated.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC747</coursenumber>
+		<name>Special Collections</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to the key issues in managing library-based special collections of various subjects, formats, and media, including: traditional book and paper formats, rare books, manuscripts, still and moving images, audio recordings, ephemeral materials, and new media. Explores a variety of curatorial techniques and approaches to identify, acquire, preserve, describe, make accessible, manage and administer these materials. Examines the unique characteristics as well as the commonalities across varieties of special collections. Discusses curatorial challenges due to new technologies and popular misperceptions about the role and value of collections, and the evolving nature of special collections' curatorship.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC748</coursenumber>
+		<name>Electronic Records and Digital Archives</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This course introduces principles and methods of managing records as operational, legal, and historical evidence in electronic environments. Topics cover concepts and strategies of records management, electronic records management requirements and applications, and archival management of electronic records and born-digital manuscripts.</description>
+		
+		<prereq>LSC555</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC752</coursenumber>
+		<name>Design and Production of Multimedia for PK-12 Instruction</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>This course focuses on the practical application and instructional integration of digital tools, including audio/video software and Web 2.0, to produce multimedia projects.  Course projects will be designed to teach information literacy and media literacy skills to PK-12 students, and to provide professional development to teachers and administrators. Each project will align with national and state technology and curriculum standards. Multimedia-specific copyright laws will be discussed.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC753</coursenumber>
+		<name>Programming for Web Applications</name>
+		<credits>3 Credits</credits>
+		<specialization>Digital Libraries</specialization>
+		<description>Introduces the concepts and techniques for developing Web-based applications. Emphasis is placed on programming techniques and the basics of database technology required for designing Web-based application interface and managing data on the Web. Students will learn the basics of a computer programming language through hands-on exercises and projects.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC756</coursenumber>
+		<name>Systems Analysis and Evaluation</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This course is designed to prepare graduate students to participate in the analysis, design, acquisition, use and evaluation of information systems within libraries, archives and other information centers. It is designed for students who work or plan to work as systems analysts, systems librarians, and related professional roles; for managers who want to better apply information systems in their organizations; and for others who use information systems in their organizations and wish to understand them better. The course is organized around a Systems Development Life Cycle (SDLC) model. Students will gain practical experience applying the SDLC model and related techniques by undertaking a team project based on a real organizational need.</description>
+		
+		<prereq>LSC555</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC757</coursenumber>
+		<name>Library Technologies and Project Management</name>
+		<credits>3 Credits</credits>
+		<specialization>Digital Libraries</specialization>
+		<specialization>Health Sciences</specialization>
+		<specialization>Information Architecture</specialization>
+		<specialization>User Services</specialization>
+		<description>This course provides students with strategies for evaluating, developing, and implementing information technologies and applications in public, academic and special libraries. Technologies covered may include traditional and non-traditional library catalogs; search engines; information, asset and knowledge management systems; and social and collaborative environments. The goals of the course are to provide students with the resources and methodologies they will need to evaluate, select, develop, and manage systems. This course builds on the foundations of the core courses and emphasizes organizational differences and the roles of information professionals.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC772</coursenumber>
+		<name>Marketing Libraries and Information Services</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This course offers an introduction to modern marketing concepts and their application in for-profit and not-for-profit organizations. It addresses the environment in which all types of libraries and information services operate, and provides the student with an opportunity to apply marketing concepts to an information services operation of the student’s choosing. It explores the question, “how can a library or information service determine the needs and wants of its target patrons, and go about satisfying them in such a way as to become (or remain) an information provider of choice?”</description>
+		
+		<prereq>LSC553 or LSC557</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC830</coursenumber>
+		<name>Legal Literature</name>
+		<credits>3 Credits</credits>
+		<specialization>Law Librarianship</specialization>
+		<description>Introduction to major print and online sources of legal information, the bibliographic organization of legal literature, and techniques of legal research; use of primary and secondary sources and finding tools. Emphasis on integrating the use of print and digital resources for legal research.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC832</coursenumber>
+		<name>Rare Books</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Practical introduction to all facets of the physical book as it is encountered in rare book collections, with an emphasis on the hand-press period; to the scholarly and trade literature surrounding it; and to the terminology historically and currently employed by rare book professionals. A materials-centered course, combining dimensions of art history and industrial archaeology. Explores issues related to collection, conservation, preservation, and cataloging of rare books. Examines the subtle features of rare books and their manufacture, history, condition, and institutional collection management and administration. Includes an introduction to basic reference works and the major authors in the rare books field. </description>
+		
+		<prereq>LSC551</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC833</coursenumber>
+		<name>Music Librarianship</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to the management and administration of music collections, including those in public, academic, conservatory, and research libraries, as well as those in performance spaces and archival settings. Examines the practices of collecting, providing access to, and preserving music and dance materials, including published and unpublished music and dance scores, and recordings in a variety of media. Special emphasis on the issues and developments in performing arts librarianship.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC834</coursenumber>
+		<name>Art and Museum Librarianship</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>During a week of field visits and courseroom sessions, supplemented by individual research and writing projects, students will gain an overview of the rich variety of library collections that support, and operate in tandem with, cultural institutions in the Washington, D.C. metropolitan area. Students will learn about the programs and mission of large, nationally-known museums as well as small, community-based historical organizations. Students will be encouraged to consider changes in technology and informatics during the first decade of the 21st century, and the impact of those changes on art and museum library and archival services, collections, space allocations, staffing, and equipment.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC835</coursenumber>
+		<name>Administration of School Library Media Programs</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Development, management, and evaluation of school library media programs, including instructional services, collection and access to information, staffing, facilities and technology, and budgeting and advocacy. Professional and state standards/guidelines and ethical issues related to school librarianship. Emphasizes building capabilities to develop a strategic plan based on environmental scanning and needs assessment.  This course is the pre- or co-requisite for LSC695B: School Library Media Practicum.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC838</coursenumber>
+		<name>Health Sciences Literature</name>
+		<credits>3 Credits</credits>
+		<specialization>Health Sciences</specialization>
+		<description>Survey of information resources and services in the health sciences. Includes information needs and communication patterns in the biomedical community. Emphasis on indexes and abstracts, important journals, and major dictionaries, encyclopedias, handbooks, directories, and textbooks. Includes on-line searching of MEDLINE and other biomedical databases.</description>
+		
+		<prereq>LSC553</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC839</coursenumber>
+		<name>Advanced Legal Research</name>
+		<credits>3 Credits</credits>
+		<specialization>Law Librarianship</specialization>
+		<description>In-depth analysis of legal research processes and major bibliographic tools involved. Particular emphasis on federal legislative materials, online resources, and advanced research and analysis skills. Prerequisite: LSC 830 or LSC 553 and permission.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC843</coursenumber>
+		<name>Public Programs, Outreach and Digital Exhibits in Libraries, Archives, and Museums</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>While archivists, librarians, and museum staff are well aware of the treasures held within their institutions, key user groups who would benefit from knowledge and use of such materials, both virtual and physical, are often not. Additionally, existing patrons of such institutions may not be aware of new acquisitions and novel applications and contextualization of existing materials. Educating constituencies on collections special interest to them benefits both the institution in question and a potentially broadening range of patrons. This course focuses on three aspects of making archival, library, and museum resources known to various user groups: public programs, outreach, and exhibitions. Public programs entail the presentation of one’s materials to a variety of publics. Outreach focuses on the identification of services to constituencies with needs relevant to the institution’s mission, with special attention to underserved groups, and tailoring services to meet those needs. The exhibit, an organized display of materials centered on a theme, fits into a public programming agenda and can function as an effective form of outreach to underserved user groups when thoughtfully and strategically conceived. Here, we will examine information seeking behavior in archival, library, and museum settings, and the principles, design, and implementation of access and outreach services in such institutions. We will explore various types of public programs, outreach strategies, and digital and physical exhibits, study the principles and practical elements involved in creating each, conduct site visits toward understanding the application of such principles in existing institutions, and apply learning in programming, outreach, and exhibit projects.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC844</coursenumber>
+		<name>Music Bibliography</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Introduction to the identification, examination, evaluation and application of the diversity of music and dance reference sources utilized in reference and access provision in performing arts libraries. Surveys the diverse range of bibliographical and mediographical information resources of music and dance, as well as a comprehensive survey of the literature of Western music. Includes the treatment of ethnic and popular music, as well as the literature of courseical, modern/postmodern, world dance, and new dance forms.</description>
+		
+		<prereq>LSC553 or 9 graduate credits in the performing arts</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC845</coursenumber>
+		<name>Religious Archives Institute</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Intensive introduction to the management and operations of religious archives, records, manuscripts, and objects collections. Presented by historians, archivists, librarians, and museum curators through a general survey of principles, practices, and current debates in archives administration, including: accessioning, arrangement, description, preservation, and providing physical and virtual access. Special emphasis on new technological applications and the complexities of modern communication in contemporary religious archival institutions. Includes related site visits in the Washington DC area.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course><coursenumber>LSC847</coursenumber>
+		<name>Survey of the Development of Children's Literature</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Overview of the history and development of children's literature, from early times to the turn of the century. In-depth discussion of representative titles of books of particular periods.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC848</coursenumber>
+		<name>Media for Children</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Examination, evaluation and discussion of literature, instructional media and other non-print materials for children.  Emphasis on criteria for matching students’ needs, interests, and stages of cognitive development.  Print and digital tools evaluated and incorporated throughout the survey of representative titles of various genres of children’s literature.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC849</coursenumber>
+		<name>Media for Young Adults</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Evaluation and selection of materials and techniques for providing reading guidance to young adults in school library media centers and public libraries. Emphasis on contemporary literature suited to the personal and recreational needs and interests of young people. Print and digital tools examined and utilized throughout the survey and evaluation of representational titles.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC871</coursenumber>
+		<name>Health Informatics</name>
+		<credits>3 Credits</credits>
+		<specialization>Health Sciences</specialization>
+		<description>Management of library resources and services in the health sciences. Introduction to problems in the management of medical and hospital libraries, administrative goals and standards, materials selection, audiovisual materials, cataloging and courseification procedures, types of reader services, user education, and opportunities for library cooperation within regional medical library programs.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC874</coursenumber>
+		<name>Digital Humanities</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Digital Humanities is the practice of using information technology, digital and computational methods to answer humanities research questions. Digital Humanities combines the methodologies from the traditional humanities disciplines such as religion, philosophy, art, architecture, literature, linguistics, film and theater, music, history, and archaeology with tools from computer science such as data visualization, data mining, textual analysis, information retrieval, and digital publishing. Librarians are playing collaborative roles in such areas as data curation and preservation, digitization of critical editions, data analysis, project design, and project management. Topics include the evolution of humanities to digital humanities; the tools and techniques used by digital humanists; the scholarly communication issues impacted by the digital humanities; and the issues pertaining to funding, managing, and evaluating digital humanities projects.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC877</coursenumber>
+		<name>Metadata and Project Management</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This course prepares students and information professionals to create, edit, and implement metadata for the purpose of describing, controlling and providing access to materials in text, image, audio, video, and other formats. For description and organization of information resources, the Resource Description and Access (RDA) standard will be the focus. For structural metadata, MODS (Metadata Object Description Schema) and Dublin Core, and MARC will be discussed. Issues of interoperability, metadata harvesting, and repurposing of metadata will be examined. Students of this course will learn to transform metadata in MARC and XML schemas using open source application such as MarcEdit, MARC::Record, etc. In addition to lectures and hands-on practice, students will visit information organizations and agencies in Washington, DC, to learn about best practices. In the process, students will learn the implementation process of various schemas, including success and lessons learned, of the visited locales.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC878</coursenumber>
+		<name>Institute on Digital Collections in Libraries, Archives, and Museums</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Digital Collections in Libraries, Archives and Museums" introduces the practices, standards, and challenges evident across the spectrum of cultural heritage institutions trying to leverage collections online. The course considers the entire life-cycle of digital collections from creation to dissemination to preservation, as well as looking at institutional conditions - past, present and future - that influence collection access online. The current era challenges libraries, archives and museums (LAMs) to connect with their audiences, as well as with their peers, in ways that redefine traditional notions of authority and autonomy. Taking an institutional as well as a network-level perspective, the course tracks this (r)evolution-in-progress and looks at emerging strategies to make digital heritage collections matter in an environment dominated by for-profit networking and information spaces. Concepts introduced in course lectures and discussions will be deepened through focused site visits with experts at local institutions. </description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC661</coursenumber>
+		<name>The College and University Library</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>The role and management of libraries in colleges and universities, including history, mission and objectives, standards, trends, organizational patterns, personnel, collections, services, facilities, and finances.
+	
+	Advanced seminars on emerging issues within the profession, offered as required. </description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC884</coursenumber>
+		<name>Copyright & Licensing Institute</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This five-day intensive Institute surveys various U.S., and some global, copyright law and licensing issues in libraries. The emphasis will be on understanding copyright, licensing and electronic rights (e-rights) in modern culture and technology, and applying this understanding to the use of copyright and licensed content in a variety of library settings. Topics for this course include: 1) the basics of copyright, 2) digital copyright issues, 3) library copyright issues, 4) permissions and licensing, and, 5) managing copyright and licensing in libraries. This course will be taught on the CUA campus, the Library of Congress, and online through Blackboard. Guest speakers will address the course, where appropriate. Participants will have an opportunity to explore relevant and evolving copyright issues, gain confidence in their knowledge in this confusing area, and apply their knowledge through practical exercises and assignments.</description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC886</coursenumber>
+		<name>Law Librarianship</name>
+		<credits>3 Credits</credits>
+		<specialization>Law Librarianship</specialization>
+		<description>Introduction to the various kinds of law libraries, their organizational and management structures, administration, collections, and services. Emphasizes day-to-day operations of law libraries, their unique collections and patron relationships. Incorporates basic legal and non-legal resources as they relate to the daily tasks and concerns of law librarians.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC887</coursenumber>
+		<name>Institute on Federal Library Resources</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>This six-day intensive course examines the complex of federal library programs and operations in detail through presentations by library leaders and others prominent in federal library activities. With preparation through assigned readings, online study, and group discussions, participants make on-site visits to major federal libraries across the entire range of government service and are introduced to careers in federal libraries. In addition to federal resources, topics examined may include mission support, marketing and outreach, use of emerging technologies, preservation, and electronic records management.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC888</coursenumber>
+		<name>The Special Library/Information Center</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Survey of management, organization, and services within special libraries and information centers. Emphasizes ongoing changes within the profession and the organizational environment. Includes a customer service focus, knowledge management, and the move to virtual libraries/information centers.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC889</coursenumber>
+		<name>The Public Library</name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Explores aspects of the public library within the context of demographic and technological changes and shifting economic and political forces. Emphasis on the interrelationship of the public library with these forces.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC694</coursenumber>
+		<name> Independent Study/name>
+		<credits>3 Credits</credits>
+		<specialization></specialization>
+		<description>Opportunity for concentrated study in a subject or problem to meet a student's special need or interest, under the direction of a member of the full-time faculty. Before registration, the topic for study must be approved by the instructor involved. One to three credit hours, commensurate with the scope of the study. Permission may be granted to take two independent study courses in one semester. A maximum of seven hours of independent study may be taken as part of the M.S. in L.S. program.</description>
+		<prereq>Prerequisite: 8 hours of credit in Library Science courses</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC695A</coursenumber>
+		<name>Practicum</name>
+		<credits>3 Credits</credits>
+		<specialization>Cultural Heritage Information Management (CHIM)</specialization>
+		<specialization>Law Librarianship</specialization>
+		<description>Supervised professional training in a library, archive, or other library/information service agency approved by the faculty of the School of Library and Information Science. Minimum of 120 hours per semester. Written goals and evaluation of practicum experience required. Requests for practicum should be made toward the end of the preceding semester to allow sufficient time to make arrangements. Graded Pass/Fail. Prerequisites: 551, 553, 555 and permission of Practicum Coordinator in consultation with student’s advisor. More details may be found at http://lis.cua.edu/courses/practicum/</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC695B</coursenumber>
+		<name>School Library Media Practicum</name>
+		<credits>3 Credits</credits>
+		<specialization>School Library Media</specialization>
+		<description>Supervised professional training in a school library media center approved by the faculty of the School of Library and Information Science. Minimum of 120 hours. Requires written evaluation of practicum experiences, observation by Practicum Coordinator and participation in an online course. Requests for practicum should be made at the beginning of the preceding semester to allow sufficient time to make arrangements. May be taken twice. Graded: Pass/Fail. Prerequisites: 835 and permission of the Practicum Coordinator.</description>
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC698A</coursenumber>
+		<name>Master's Comprehensive Examination (with coursees)</name>
+		<credits></credits>
+		<specialization></specialization>
+		<description></description>
+		
+		<prereq>None</prereq>
+	</course>
+	<course>
+		<coursenumber>LSC698B</coursenumber>
+		<name>Master's Comprehensive Examination (without coursees)</name>
+		<credits></credits>
+		<specialization></specialization>
+		<description></description>
+		<prereq>None</prereq>
+	</course>
+</program>
